@@ -1,0 +1,14 @@
+html{
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+img{
+    background-color: white;
+    width: 50%;
+    margin-left: 40px;
+}
